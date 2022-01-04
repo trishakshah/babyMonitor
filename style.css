@@ -1,0 +1,24 @@
+#heading {
+    font-size: 40px;
+    width: 50%;
+    margin: 10px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    font-weight: bold;
+}
+
+#status {
+    font-size: 22px;
+    color: white;
+}
+
+body {
+    background-size: cover;
+    font-family: 'Shizuru', cursive;
+}
+
+canvas {
+    box-shadow: 5px 8px 10px grey;
+    border-radius: 20px;
+}
